@@ -120,7 +120,7 @@
 						<a href="https://www.uswebdesignsystem.org/" class="usa-nav-link">USWDS</a>
 					</li> -->
 					<li class="usa-nav__primary-item">
-						<a href="./our-services.php" class="usa-nav-link">Our Services</a>
+						<a href="./our-services.html" class="usa-nav-link">Our Services</a>
 					</li>
 
 					<li class="usa-nav__primary-item">
